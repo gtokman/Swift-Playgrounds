@@ -1,7 +1,5 @@
-//: [Previous](@previous)
 
-import Cocoa
-
+// Numbers
 print("The maximum Int value is \(Int.max)")
 print("The minumum Int value is \(Int.min)")
 print("The maximum value for a 32-bit integer is \(Int32.max)")
@@ -47,7 +45,7 @@ print("d1 + 0.1 is \(d1 + 0.1)")
 if d1 + 0.1 == 1.2 {
     print("d1 + 0.1 is \(d1 + 0.1)")
 }
-˜
+
 
 
 
