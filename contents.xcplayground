@@ -5,5 +5,7 @@
         <page name='Numbers'/>
         <page name='Switch'/>
         <page name='Loops'/>
+        <page name='Strings'/>
+        <page name='Optionals'/>
     </pages>
 </playground>
