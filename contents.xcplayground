@@ -14,5 +14,6 @@
         <page name='Closures'/>
         <page name='Enumerations'/>
         <page name='Curried Functions'/>
+        <page name='ValueVsReference'/>
     </pages>
 </playground>
