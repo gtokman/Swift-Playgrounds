@@ -15,5 +15,6 @@
         <page name='Enumerations'/>
         <page name='Curried Functions'/>
         <page name='ValueVsReference'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
