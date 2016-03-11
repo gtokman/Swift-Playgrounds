@@ -16,5 +16,6 @@
         <page name='Curried Functions'/>
         <page name='ValueVsReference'/>
         <page name='Protocols'/>
+        <page name='ErrorHandling'/>
     </pages>
 </playground>
