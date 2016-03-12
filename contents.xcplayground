@@ -17,5 +17,6 @@
         <page name='ValueVsReference'/>
         <page name='Protocols'/>
         <page name='ErrorHandling'/>
+        <page name='Extensions'/>
     </pages>
 </playground>
