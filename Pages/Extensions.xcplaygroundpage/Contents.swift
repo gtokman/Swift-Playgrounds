@@ -93,7 +93,7 @@ extension Car {
     }
 }
 
-c.emptyGas(0.7)
+c.emptyGas(2.0)
 c.gasLevel
 c.emptyGas(0.5)
 c.gasLevel
