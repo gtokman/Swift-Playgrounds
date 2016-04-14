@@ -7,6 +7,7 @@
         <page name='Loops'/>
         <page name='Strings'/>
         <page name='Generics'/>
+        <page name='ProtocolExtensions'/>
         <page name='Optionals'/>
         <page name='Arrays'/>
         <page name='Dictionary'/>
